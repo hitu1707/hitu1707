@@ -55,59 +55,57 @@
 
 **Frontend**
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="Click to visit HTML5 docs" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="Click to visit CSS3 docs" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="Click to visit JavaScript docs" />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" />
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="Click to visit TypeScript" />
   </a>
-  <a href="https://react.dev/" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" />
+  <a href="https://react.dev/">
+    <img src="https://skillicons.dev/icons?i=react" alt="React" title="Click to visit React" />
   </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap" />
+  <a href="https://getbootstrap.com/">
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Click to visit Bootstrap" />
   </a>
 </p>
 
 **Backend**
 <p align="left">
-  <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" />
+  <a href="https://nodejs.org/">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Click to visit Node.js" />
   </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=express" alt="Express.js" title="Express.js" />
+  <a href="https://expressjs.com/">
+    <img src="https://skillicons.dev/icons?i=express" alt="Express.js" title="Click to visit Express.js" />
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" />
+  <a href="https://www.mongodb.com/">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="Click to visit MongoDB" />
   </a>
 </p>
 
 **Tools & Others**
 <p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" />
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Click to visit Git" />
   </a>
-  <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" />
+  <a href="https://github.com/">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="Click to visit GitHub" />
   </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" />
+  <a href="https://code.visualstudio.com/">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="Click to visit VS Code" />
   </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman" />
+  <a href="https://www.postman.com/">
+    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Click to visit Postman" />
   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" />
+  <a href="https://www.figma.com/">
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Click to visit Figma" />
   </a>
-</p>
-
-<br/>
+</p><br/>
 
 ---
 
