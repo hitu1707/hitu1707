@@ -1,58 +1,66 @@
-<!-- ==================== HEADER SECTION ==================== -->
-<div align="center">
-  
-  <!-- Animated Wave Banner -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hitesh%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=52&descSize=18"/>
-
-</div>
-
-<!-- Visitor Badge -->
+<!-- Visitor Counter -->
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=hitu1707&label=Visitors&color=0e75b6&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/hitu1707?label=Followers&style=flat-square&color=0e75b6" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=hitu1707&label=Profile%20views&color=0e75b6&style=flat" alt="hitu1707" />
 </p>
 
-<!-- Typing SVG + GIF Side by Side -->
+<!-- Header with Typing Effect & GIF -->
 <div align="center">
-  <img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-  <br/>
-
+  <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/71/f1/a9/71f1a93b6932fffc6a4e8bd43dab7f39.gif">
+  
+  <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hi, I'm Hitesh Singh</h1>
+  
+  <!-- Dynamic Typing Effect -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2196F3&vCenter=true&multiline=true&width=435&height=100&lines=Full-Stack+Developer+%F0%9F%92%BB;MERN+%7C+Java+%7C+Android+%F0%9F%9A%80;Building+cool+stuff+daily+%E2%9A%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=false&vCenter=false&width=435&lines=A+Passionate+Full-Stack+Developer;Building+Web+%26+Mobile+Apps;Always+learning+new+technologies" alt="Typing SVG" />
   </a>
-
-  <br/><br/>
-
-  <!-- Quick Badges -->
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-dodgerblue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Lives-India-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen?style=flat-square" />
-
 </div>
 
 <br/>
 
-<!-- ==================== ABOUT ME ==================== -->
+### 👨‍💻 About Me
+- 🔭 I’m currently working on **[Add your current project here]**
+- 🌱 I’m currently learning **[Add what you are learning here]**
+- 💬 Ask me about **Java, MERN Stack, C++, and Android**
+- 📫 How to reach me: **[Add your email here]**
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="30" /> &nbsp;About Me
+<br/>
 
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20with%20Wry%20Smile.png" width="80"/>
+### 🛠️ Languages and Tools
+<!-- Upgraded to dynamic skill icons for a much cleaner look -->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,c,cpp,js,ts,html,css&perline=10" />
+    <br/>
+    <br/>
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,bootstrap,android,blender,photoshop&perline=10" />
+  </a>
+</p>
 
-```yaml
-name: Hitesh Singh
-located_in: India
-current_role: Full-Stack Developer
+<br/>
 
-currently_working_on: ["Add Your Project Here"]
-currently_learning: ["Add Technologies Here"]
+### 📊 GitHub Stats
+<!-- Added themes, overall stats, and streak cards -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hitu1707&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="hitu1707 stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hitu1707&theme=radical&hide_border=true&background=0D1117" alt="hitu1707 streak" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hitu1707&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="hitu1707" />
+</div>
 
-fields_of_interest: [
-  "Web Development",
-  "Mobile App Development",
-  "Competitive Programming",
-  "UI/UX Design"
-]
+<br/>
 
-hobbies: ["Coding", "Gaming", "Open Source"]
-fun_fact: "I can debug code faster than I can decide what to eat 🍕"
+### 🤝 Connect with me
+<p align="left">
+  <a href="https://www.leetcode.com/hitu1707" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode"/>
+  </a>
+  <a href="https://instagram.com/hitu_1707_" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
+  </a>
+  <!-- Add your LinkedIn below -->
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+</p>
