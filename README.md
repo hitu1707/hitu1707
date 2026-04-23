@@ -1,66 +1,135 @@
 <!-- Visitor Counter -->
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=hitu1707&label=Profile%20views&color=0e75b6&style=flat" alt="hitu1707" />
+  <img src="https://komarev.com/ghpvc/?username=hitu1707&label=Profile%20views&color=667eea&style=flat" alt="hitu1707" />
 </p>
 
-<!-- Header with Typing Effect & GIF -->
+<!-- Header -->
 <div align="center">
-  <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/71/f1/a9/71f1a93b6932fffc6a4e8bd43dab7f39.gif">
-  
-  <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hi, I'm Hitesh Singh</h1>
-  
-  <!-- Dynamic Typing Effect -->
+  <img align="right" alt="Coding" width="350" 
+       src="https://i.pinimg.com/originals/71/f1/a9/71f1a93b6932fffc6a4e8bd43dab7f39.gif">
+
+  <h1>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" 
+         alt="Waving Hand" width="35" height="35" />
+    Hi, I'm Hitesh Singh
+  </h1>
+
+  <!-- Typing Effect -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=false&vCenter=false&width=435&lines=A+Passionate+Full-Stack+Developer;Building+Web+%26+Mobile+Apps;Always+learning+new+technologies" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=667eea&center=false&vCenter=false&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Developer;Building+Modern+Web+Apps;Passionate+About+Clean+Code" 
+         alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
+
+---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **[Add your current project here]**
-- 🌱 I’m currently learning **[Add what you are learning here]**
-- 💬 Ask me about **Java, MERN Stack, C++, and Android**
-- 📫 How to reach me: **[Add your email here]**
+
+- 🔭 Currently working on &nbsp; **[Hospital Management System](https://hospital-management-aqxt.onrender.com/)**
+- 🌱 Currently learning &nbsp; **Advanced React, TypeScript & System Design**
+- 💼 Looking for &nbsp; **Full Stack Developer / Frontend Developer roles**
+- 🏙️ Based in &nbsp; **Bangalore, India**
+- 💬 Ask me about &nbsp; **MERN Stack, JavaScript, React, Node.js**
+- 📫 Reach me at &nbsp; **aithanihitesh5@gmail.com**
+- ⚡ Fun fact &nbsp; **I started coding out of curiosity and never stopped!**
 
 <br/>
+
+---
+
+### 🚀 Live Projects
+
+| Project | Tech Stack | Status | Link |
+|---------|-----------|--------|------|
+| 🏥 Hospital Management System | MongoDB, Express, React, Node.js | 🟢 Live | [View Live](https://hospital-management-aqxt.onrender.com/) |
+| 💬 Real-Time Chat Application | React, Node.js, Socket.io, MongoDB | 🟢 Live | [View Live](https://hitu1707.github.io/portfolio/) |
+| 🌐 Portfolio Website | HTML5, CSS3, JavaScript | 🟢 Live | [View Live](https://hitu1707.github.io/portfolio/) |
+
+<br/>
+
+---
 
 ### 🛠️ Languages and Tools
-<!-- Upgraded to dynamic skill icons for a much cleaner look -->
+
+**Frontend**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,cpp,js,ts,html,css&perline=10" />
-    <br/>
-    <br/>
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,bootstrap,android,blender,photoshop&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap" />
+  </a>
+</p>
+
+**Backend**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  </a>
+</p>
+
+**Tools & Others**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
   </a>
 </p>
 
 <br/>
 
-### 📊 GitHub Stats
-<!-- Added themes, overall stats, and streak cards -->
+---
+
+### 📊 Most Used Languages
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hitu1707&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="hitu1707 stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hitu1707&theme=radical&hide_border=true&background=0D1117" alt="hitu1707 streak" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hitu1707&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="hitu1707" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hitu1707&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" 
+       alt="Most Used Languages" />
 </div>
 
 <br/>
 
-### 🤝 Connect with me
+---
+
+### 🤝 Connect With Me
+
 <p align="left">
-  <a href="https://www.leetcode.com/hitu1707" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode"/>
+
+  <a href="mailto:aithanihitesh5@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
   </a>
-  <a href="https://instagram.com/hitu_1707_" target="_blank">
+
+  <a href="https://github.com/hitu1707" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+  </a>
+
+  <a href="https://www.instagram.com/hitu_1707_/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
   </a>
-  <!-- Add your LinkedIn below -->
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+
+  <a href="https://leetcode.com/u/hitu1707/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode"/>
   </a>
+
+  <a href="https://hospital-management-aqxt.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-667eea?style=for-the-badge&logo=google-chrome&logoColor=white" alt="portfolio"/>
+  </a>
+
 </p>
+
+<br/>
+
+---
+
+### 💼 What I Do
+
+```javascript
+const hitesh = {
+    role:       "Full Stack Developer",
+    location:   "Bangalore, India",
+    experience: "Fresher / Entry Level",
+    stack:      ["MongoDB", "Express.js", "React", "Node.js"],
+    languages:  ["JavaScript", "HTML5", "CSS3"],
+    tools:      ["Git", "GitHub", "VS Code", "Postman"],
+    currently:  "Building Hospital Management System",
+    goal:       "To build products that make a difference",
+    available:  true
+};
