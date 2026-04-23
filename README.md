@@ -55,22 +55,55 @@
 
 **Frontend**
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" />
+  </a>
+  <a href="https://react.dev/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" />
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap" />
   </a>
 </p>
 
 **Backend**
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=express" alt="Express.js" title="Express.js" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" />
   </a>
 </p>
 
 **Tools & Others**
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" />
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" />
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" />
   </a>
 </p>
 
@@ -92,27 +125,21 @@
 ### 🤝 Connect With Me
 
 <p align="left">
-
   <a href="mailto:aithanihitesh5@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
   </a>
-
   <a href="https://github.com/hitu1707" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
   </a>
-
   <a href="https://www.instagram.com/hitu_1707_/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
   </a>
-
   <a href="https://leetcode.com/u/hitu1707/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode"/>
   </a>
-
-  <a href="https://hospital-management-aqxt.onrender.com/" target="_blank">
+  <a href="https://hitu1707.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-667eea?style=for-the-badge&logo=google-chrome&logoColor=white" alt="portfolio"/>
   </a>
-
 </p>
 
 <br/>
