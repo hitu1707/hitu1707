@@ -64,9 +64,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="Click to visit JavaScript docs" />
   </a>
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="Click to visit TypeScript" />
-  </a>
   <a href="https://react.dev/">
     <img src="https://skillicons.dev/icons?i=react" alt="React" title="Click to visit React" />
   </a>
